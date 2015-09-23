@@ -2,7 +2,7 @@
   "name": "ngprogress",
   "version": "1.1.2",
   "main": [
-    "build/ngProgress.js",
+    "build/ngprogress.js",
     "ngProgress.css"
   ],
   "ignore": [
